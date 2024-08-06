@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Setor {
+public interface Setor {
+	String prepararPedido(Pedido pedido);
 }
